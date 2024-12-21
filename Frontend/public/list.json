@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "A Gentleman's Tale",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1734720748~exp=1734724348~hmac=bda625e17b4476e0fbee0200fd3018fc84b06e32770c7d9929f642f6129da9ac&w=740"
+    },
+    {
+        "id": 2,
+        "title": "The Free Thinker",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1734720748~exp=1734724348~hmac=bda625e17b4476e0fbee0200fd3018fc84b06e32770c7d9929f642f6129da9ac&w=740"
+    },
+    {
+        "id": 3,
+        "title": "Stories Untold",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1734720748~exp=1734724348~hmac=bda625e17b4476e0fbee0200fd3018fc84b06e32770c7d9929f642f6129da9ac&w=740"
+    },
+    {
+        "id": 4,
+        "title": "Path to Infinity",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1734720748~exp=1734724348~hmac=bda625e17b4476e0fbee0200fd3018fc84b06e32770c7d9929f642f6129da9ac&w=740"
+    },
+    {
+        "id": 5,
+        "title": "Whispering Shadows",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1734720748~exp=1734724348~hmac=bda625e17b4476e0fbee0200fd3018fc84b06e32770c7d9929f642f6129da9ac&w=740"
+    },
+    {
+        "id": 6,
+        "title": "Echoes of Time",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1734720748~exp=1734724348~hmac=bda625e17b4476e0fbee0200fd3018fc84b06e32770c7d9929f642f6129da9ac&w=740"
+    },
+    {
+        "id": 7,
+        "title": "Winds of Change",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1734720748~exp=1734724348~hmac=bda625e17b4476e0fbee0200fd3018fc84b06e32770c7d9929f642f6129da9ac&w=740"
+    },
+    {
+        "id": 8,
+        "title": "Beyond the Horizon",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1734720748~exp=1734724348~hmac=bda625e17b4476e0fbee0200fd3018fc84b06e32770c7d9929f642f6129da9ac&w=740"
+    },
+    {
+        "id": 9,
+        "title": "Silent Watchers",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1734720748~exp=1734724348~hmac=bda625e17b4476e0fbee0200fd3018fc84b06e32770c7d9929f642f6129da9ac&w=740"
+    },
+    {
+        "id": 10,
+        "title": "Fragments of Light",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1734720748~exp=1734724348~hmac=bda625e17b4476e0fbee0200fd3018fc84b06e32770c7d9929f642f6129da9ac&w=740"
+    }
+]
